@@ -1,0 +1,9 @@
+.main-btn{
+    background-color: #4caf50;
+    padding: 20px 50px;
+    border-radius: 5px;
+    color: #fafafa;
+    font-size: 24px;
+    display: block;
+    margin: 0 auto;
+}

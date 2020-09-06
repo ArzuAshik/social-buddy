@@ -1,0 +1,8 @@
+.post{
+    background: linear-gradient( #fafafa, #e0e0e0);
+    /* color: #fafafa !important; */
+}
+
+.post-title a{
+    color: #FFC107 !important;
+}
